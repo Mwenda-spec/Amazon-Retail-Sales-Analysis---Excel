@@ -1,0 +1,36 @@
+﻿Total Orders,,Total Orders
+1000,,1000
+,,
+,,
+Sum of Total Revenue,,Total Revenue
+323.0K,,323.0K
+,,
+,,
+Sum of Quantity,,Quantity
+5510,,5510
+,,
+,,
+Sum of Rating,,Average Rating
+6972.7,,7.0
+,,
+,,
+,,
+Branch,Total Revenue,
+A,39.4K,
+B,68.5K,
+C,69.7K,
+D,85.3K,
+E,60.1K,
+Grand Total,323.0K,
+,,
+,,
+,,
+,,
+Row Labels,Revenue,Total Quantity
+Food and beverages,56.1K,952
+Sports and travel,55.1K,920
+Electronic accessories,54.3K,971
+Fashion accessories,54.3K,902
+Home and lifestyle,53.9K,911
+Health and beauty,49.2K,854
+Grand Total,323.0K,5.5K
